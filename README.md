@@ -27,7 +27,6 @@ Through this project, I practiced:
 
 - `index.html` - The HTML structure containing the form and all its input elements
 - `styles.css` - The CSS file that styles the form to make it visually appealing and user-friendly
-- `package.json` and `package-lock.json` - Configuration files for the project dependencies
 
 ## Design Elements
 
